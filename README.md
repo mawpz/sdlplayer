@@ -12,7 +12,7 @@ A small audio player written in C++ with SDL
 A playlist file is just a text file (with the MIME type of `text/plain`), containing full paths to MP3 files
 
 ## Dependencies
-* Arch Linux: `sudo pacman -S sdl2 sdl2_image sdl2_mixer sdl2_ttf taglib`
+* Arch Linux: `sudo pacman -S sdl2 sdl2_image sdl2_mixer sdl2_ttf taglib ttf-isoevka-nerd`
 
 ## LICENCE
 MIT License
